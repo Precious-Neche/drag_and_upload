@@ -1,7 +1,8 @@
 FastAPI Drag-and-Drop File Uploader
 
 A modern file upload system with drag-and-drop interface, file gallery, and responsive design.
-![Screenshot (195)](https://github.com/user-attachments/assets/aff68568-fb7d-47d8-b1de-9db61f23321d)
+![Screenshot (195)](https://github.com/user-attachments/assets/ac0763a4-0f68-4ca6-ad9b-e5cf3ee4ee9b)
+
 
 ## Features
 
